@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/profile_banners/222257174/1616378568/1500x500">
 
 
-Я — QA Engineer 
+Я — Automation QA Engineer. 
 Имею более 4 лет опыта в тестировании и 2 года автотестирования UI/API. Регулярно изучаю новые технологии и инструменты в сфере тестирования. 
 
 В настоящий момент работаю в IRLIX и пишу автотесты на Java.
