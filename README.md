@@ -4,7 +4,7 @@
 
 Я — Automation QA Engineer. 
 Имею более 5 лет опыта в тестировании и 3 года автотестирования UI/API. Изучаю различные ЯП и технологии для автоматизации тестирования.
-В настоящий момент работаю в IRLIX и пишу автотесты на Java.
+В настоящий момент работаю в IRLIX и пишу автотесты на Java, Kotlin, немного на Swift.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slovak1990&theme=cobalt&show_icons=true)
 
